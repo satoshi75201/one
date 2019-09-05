@@ -13,7 +13,7 @@ body {
 <head>
 <style>
 body {
-  color: gold;
+  color: white;
 }
 
 h1 {
@@ -60,7 +60,6 @@ p {
 
 <h1>My First CSS Example</h1>
 
-<!-- HTML Codes by Code-Generator.net -->
 <style type="text/css">
 .myspace-marquee {height:200px;width:400px;background-color:ffff33;font-family:Cursive;font-size:22pt;color:33cc33;border-width:4;border-style:dotted;border-color:ff0000;}
 </style>
@@ -75,12 +74,6 @@ Comments Please:<br />
 <p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
 
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
-
-<p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
-<iframe src="https://www.hover.com/wp-content/uploads/2014/09/gif-5.gifallowFullScreen></iframe><p>
-             
-<iframe src="http://www.code-generator.net/html/codes/" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="<iframe src="https://giphy.com/embed/kgKrO1A3JbWTK" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mc-hammer-music-video-hip-hop-kgKrO1A3JbWTK">via GIPHY</a></p>">via GIPHY</a></p>
-
 
 </body>
 </html>
