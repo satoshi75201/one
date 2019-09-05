@@ -76,6 +76,8 @@ Comments Please:<br />
 
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
 
+<iframe src="https://www.hover.com/wp-content/uploads/2014/09/gif-5.gifallowFullScreen></iframe><p>
+
 
 </body>
 </html>
