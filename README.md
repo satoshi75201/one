@@ -47,6 +47,9 @@
 
 /* Use this with templates/template-twocol.html --*/
 
+
+<img src="http://content.pimp-my-profile.com/i81/9/9/1/f_be69c2ba04.jpg"> 
+
 body {
   background:$bgcolor;
   margin:0;
@@ -56,7 +59,7 @@ body {
   font-size: /**/small;
   text-align: center;
   background-color         : $bgcolor;
-  background-image         : url(http://content.pimp-my-profile.com/i81/9/9/1/f_be69c2ba04.jpg) ;
+  background-image         : url() ;
   background-position      : Center Center; 
   background-attachment    : fixed ;
   background-repeat        : repeat ;
