@@ -7,14 +7,7 @@
     <b:include data='blog' name='all-head-content'/>
     <title><data:blog.pageTitle/></title>
     <b:skin><![CDATA[/*
------------------------------------------------
-Blogger Template Style
-Name:     Unknown
-Designer: Unknown
-URL:      www.Pimp-My-Profile.com
------------------------------------------------ */
 
-/* Variable definitions
    ====================
    <Variable name="bgcolor" description="Page Background Color"
              type="color" default="#ffffff" value="#ffffff">
