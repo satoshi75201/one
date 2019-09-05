@@ -27,7 +27,12 @@ h1 {
 
 </body>
 </html>
-<p>Strange background image...</p>
+<p>WE LOVE BITCOIN
+  
+  
+  LUCAS LOVES BITCOIN
+  
+  DAISY LOVES BITCOIN...</p>
 
 </body>
 </html>
