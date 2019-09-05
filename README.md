@@ -11,6 +11,7 @@ Here you will find some basic information on Bitcoin and Blockchain.</p>
 </html>
 
 <html>
-<body style="background-image:url(https://images.app.goo.gl/nyfaNA5nqDWExzpz7');">
+<body style="background-image:url(https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_hubble3.jpg);">
 
-<h2>Background Image</h2>
+
+</html>
