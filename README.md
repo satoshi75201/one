@@ -9,7 +9,15 @@ body {
 <body>
 
 <h1>Welcome to SoundBTC!</h1>
-color: blue;
+<style>
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+</style>
 <p>Strange background image...</p>
 
 </body>
