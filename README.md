@@ -14,7 +14,7 @@ body {
 <head>
 <style>
 body {
-  color: blue;
+  color: gold;
 }
 
 h1 {
