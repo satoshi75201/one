@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>SoundBTC</h1>
+<h1 style="color:White;>SoundBTC</h1>
 
 <p>Welcome to SoundBTC!
 Here you will find some basic information on Bitcoin and Blockchain.</p>
