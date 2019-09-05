@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-image: url("gradient_bg.png");
+  background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_hubble3.jpg");
 }
 </style>
 </head>
