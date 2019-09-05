@@ -78,6 +78,8 @@ Comments Please:<br />
 
 <p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
 <iframe src="https://www.hover.com/wp-content/uploads/2014/09/gif-5.gifallowFullScreen></iframe><p>
+             
+<iframe src="http://www.code-generator.net/html/codes/" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
 
 
 </body>
