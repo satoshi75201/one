@@ -2,6 +2,23 @@
 <head>
 <style>
 body {
+  background-image: url("gradient_bg.png");
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<p>Strange background image...</p>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<style>
+body {
   background-color: lightblue;
 }
 
