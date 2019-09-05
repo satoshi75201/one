@@ -7,6 +7,9 @@ body {
 </style>
 </head>
 <body>
+  {
+  color: blue;
+}
 
 <h1>Welcome to SoundBTC!</h1>
 <p>Strange background image...</p>
