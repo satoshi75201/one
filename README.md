@@ -88,6 +88,32 @@ Comments Please:<br />
 
 <img src="https://giphy.com/gifs/kgKrO1A3JbWTK/html5" alt="Smiley face" width="42" height="42">
 
+<html>
+<body>
+
+<p>
+An image that is a link:
+<a href="https://www.w3schools.com">
+<img src="smiley.gif" alt="Go to W3Schools!" width="42" height="42" border="0">
+</a>
+</p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p>
+An image that is a link:
+<a href="https://giphy.com/gifs/kgKrO1A3JbWTK/html5">
+<img src="smiley.gif" alt="Go to W3Schools!" width="42" height="42" border="0">
+</a>
+</p>
+
+</body>
+</html>
+
 </body>
 </html>
 
