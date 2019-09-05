@@ -66,7 +66,14 @@ p {
 </style>
 <marquee class="myspace-marquee" direction="left" behavior="scroll" scrollamount="10" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:10px;"></p>
 
-<p>This is a paragraph.</p>
+<p>Let us know how you feel aobut this website!.</p>
+<form action="/html/codes/html-comment-box-code-action.cfm" method="get">
+Comments Please:<br />
+<textarea rows="4" cols="25"></textarea><br />
+<input type="submit" value="Submit" />
+</form>
+<p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
+
 
 </body>
 </html>
