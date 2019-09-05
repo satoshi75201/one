@@ -9,7 +9,7 @@ body {
 <body>
 
 <h1>Welcome to SoundBTC!</h1>
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
