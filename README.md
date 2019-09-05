@@ -8,7 +8,15 @@ body {
 </head>
 <body>
 
-<h1>Welcome to SoundBTC!</h1>
+<h1>Welcome to SoundBTC!</h1> <html>
+<body>
+
+<img src="smiley.gif" alt="Smiley face" width="42" height="42">
+
+</body>
+</html>
+
+
 <html>
 <head>
 <style>
@@ -74,6 +82,15 @@ Comments Please:<br />
 <p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
 
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
+
+<html>
+<body>
+
+<img src="https://giphy.com/gifs/kgKrO1A3JbWTK/html5" alt="Smiley face" width="42" height="42">
+
+</body>
+</html>
+
 
 </body>
 </html>
