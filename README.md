@@ -1,132 +1,370 @@
-<div class="line"></div>
-<div class="wrapper">
-  <header role="banner">
-    <nav role="navigation">
-      <h1><a href="#">Asperion</a></h1>
-      <ul class="nav-ul">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Technologies</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contacts</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main role="main">
-    <section class="sec-intro" role="section">
-      <img src="https://www.techweekeurope.co.uk/wp-content/uploads/2012/07/wifimountaindownload.jpg" alt="" />
-      <h1>Be Innovative!</h1>
-    </section>
-    <section class="sec-boxes" role="section">
-      <adrticle class="box">
-        <h1>Open-minded</h1>
-        <p>Every option should be explored and tried no matter how unpredictable, impossible, insane or ridiculous does it looks or sound.</p>
-        <button class="button" type="button" role="button" value="MORE">More</button>
-      </adrticle>
-      <adrticle class="box">
-        <h1>Creative</h1>
-        <p>Brainstorming, idea generation, playing sessions, note taking. You think you used everything? We will challenge your mind and its abilities to the limits.</p>
-        <button class="button" type="button" role="button" value="MORE">More</button>
-      </adrticle>
-      <adrticle class="box">
-        <h1>Bold</h1>
-        <p>Our methods and ideas are are not written or following any books, curriculums or rules. We consider ourselves rebels and we are proud of it.</p>
-        <button class="button" type="button" role="button" value="MORE">More</button>
-      </adrticle>
-      <adrticle class="box">
-        <h1>Smart</h1>
-        <p>Every project with innovation as a goal requires smart approach. Identify real problem first and look for the smartest and simplest solution later.</p>
-        <button class="button" type="button" role="button" value="MORE">More</button>
-      </adrticle>
-    </section>
-    <section class="sec-events" role="section">
-      <hr />
-      <h1>Upcomming events</h1>
-      <article>
-        <h1>Tire Technology Expo</h1>
-        <p>Tire Technology Expo has grown in strength and stature every year since it was started in Europe 15 years ago. Visitors and exhibitors to the conference and exhibition staged in February 2014 universally praised it as the 'world's leading tire design and tire manufacturing event', noting in particular the outstanding quality of the conference papers and speakers, and the comprehensive extent of machinery manufacturers and suppliers who exhibited at the event.</p>
-        <a class="link" href="#">more...</a>
-      </article>
-      <article>
-        <h1>Meteorology World Expo</h1>
-        <p>Meteorological Technology World Expo is a truly international exhibition of the very latest climate, weather and hydro - meteorological forecasting, measurement and analysis technologies and service providers for a global community of key decision makers within the aviation industry, shipping companies, marine / port installations, airports, military operations, off-shore exploration companies, wind farm operators, met offices, agriculture operations and research institutes.</p>
-        <a class="link" href="#">more...</a>
-      </article>
-      <article>
-        <h1>Wearable Tech Expo</h1>
-        <p>See live demos, listen to case studies, speak with Wearable Tech Experts The first Wearable Tech Expo in Tokyo 2014. Key players from Japan, America and Europe announced their new products and attracted attention from all over the world. The next Wearable Tech Expo in Tokyo will be doubling in size and include Robotics and IoT. The main players in the wearable industry, human factor engineers, brain scientists, media providers and creators will discuss the future of wearable technology! </p>
-        <a class="link" href="#">more...</a>
-      </article>
-      <article>
-        <h1>Space Tech Expo</h1>
-        <p>Space Tech Expo is the West Coast's premier B2B space event for spacecraft, satellite, launch vehicle and space-related technologies. Taking place in Long Beach, the Space Tech Expo exhibition and conference brings together global decision-makers involved in the design, build and testing of spacecraft, satellite, launch vehicle and space-related technologies. Leading the West Coast space and satellite industry, Space Tech Expo is where end-users connect with solution providers.</p>
-        <a class="link" href="#">more...</a>
-      </article>
-    </section>
-    <section class="sec-projects" role="section">
-      <hr />
-      <h1>Previous Projects</h1>
-      <article>
-        <h1>Neural network for Google</h1>
-        <p>People from Google approached us this January with offer to create new neural network for whole Google's ecosystem. This idea was very interesting and looked almost impossible at first glance. However, our engineers proved their expertise and built amazing autonomous platform. <a class="link" href="#">more...</a></p>
-      </article>
-      <article>
-        <h1>Faster operating system for Apple</h1>
-        <p>For a years, since founding days of a company, Apple always worked with its own operating system. In October, this was about to change. Our company got chance to rewrite the history by creating brand new OS for Apple. It was very difficult and all our employees worked hard every day. <a class="link" href="#">more...</a></p>
-      </article>
-      <article>
-        <h1>Manufacturing technology for Intel</h1>
-        <p>Intel has been manufacturing company for many years. They always used the latest technologies to achieve the best results with lowest costs. However, this was not enough. Intel decided to offer us something that could disrupt whole technology sector. <a class="link" href="#">more...</a></p>
-      </article>
-    </section>
-    <section class="sec-standards" role="section">
-      <hr />
-      <h1>Our Standards</h1>
-      <article>
-        <h1>Excellence</h1>
-        <p>Our goal is to give our customers the best solutions in highest aquality. Our employees strive for excellence and work hard to achieve it. Everything must work and be reliable. Great design must be both, aesthetic and functional. Product or service that pass these conditions will be everlasting.</p>
-      </article>
-      <article>
-        <h1>Uniqueness</h1>
-        <p>Our mantra is to create new paths. We are not interested in copying others because we know, that if you want to succeed, you have to be different, unique. Our customers know that we create unique products and experience for them. This is the best way to differentiate us and our brand from the noise on market. Unique, different and proud.</p>
-      </article>
-    </section>
-    <section class="sec-partners" role="section">
-      <hr />
-      <h1>Our Partners</h1>
-      <div class="row">
-        <div class="logo-container">
-          <img src="https://i.imgur.com/oSriTuP.png" alt="Google logo" />
-        </div>
-        <div class="logo-container">
-          <img src="https://i.imgur.com/kRgvevC.png" alt="Apple logo" />
-        </div>
-        <div class="logo-container">
-          <img src="https://i.imgur.com/ZZjeIP3.png" alt="Wii logo" />
-        </div>
-        <div class="logo-container">
-          <img src="https://i.imgur.com/536rtCW.png" alt="Valve logo" />
-        </div>
-        <div class="logo-container">
-          <img src="https://i.imgur.com/VTq1c9p.png" alt="Adithya Institute of Technology logo" />
-        </div>
-        <div class="logo-container">
-          <img src="https://i.imgur.com/GdYoyxo.png" alt="Intel logo" />
-        </div>
-      </div>
-    </section>
-  </main>
-</div>
-<footer>
-  <nav role="navigation">
-    <ul class="nav-ul">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About Us</a></li>
-      <li><a href="#">Technologies</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">Contacts</a></li>
-    </ul>
-  </nav>
-  <p class="copy">&copy; Alex Devero Design 2014</p>
-</footer>
-<div class="line"></div>
+/*
+
+Timeless Template 
+
+http://www.templatemo.com/tm-517-timeless
+
+*/
+
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+.tm-site-logo {
+    width: 40px;
+    height: 40px;
+    border: 7px solid white;
+    transform: rotate(45deg);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.tm-site-title {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 0;
+}
+
+.tm-site-header {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 0;
+}
+
+#tm-video-loader {
+    border: 5px solid #f3f3f3;
+    -webkit-animation: spin 1s linear infinite;
+    animation: spin 1s linear infinite;
+    border-top: 5px solid #555;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    margin: auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.tm-video-container {
+    position: relative;
+    max-width: 1280px;
+    max-height: 640px;
+    overflow-y: hidden;
+}
+
+.tm-video-text {
+    display: inline-block;
+}
+
+.tm-welcome-video {
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    background-color: black;
+    background-size: cover;
+    transition: 1s opacity;
+}
+
+.tm-video-text-overlay {
+    position: absolute;
+    left: 60%;
+    bottom: 30px;
+}
+.tm-video-text-overlay h1 {
+	font-size: 3.4rem;
+}
+.tm-welcome-text {
+    margin-top: 65px;
+    margin-bottom: 65px;
+    font-size: 2.2rem;
+}
+
+.tm-font-400 {
+    font-weight: 400;
+}
+
+.tm-text-light-gray {
+    color: #CDCDCD;
+}
+
+.tm-text-gray {
+    color: #CCCCCC;
+}
+
+.tm-text-white {
+    color: #FFFFFF;
+}
+
+a.tm-text-white:hover,
+a.tm-text-white:focus {
+    color: #FFFFFF;
+}
+
+.tm-text-green {
+    color: #99CC66;
+}
+
+.tm-text-cyan {
+    color: #33CCCC;
+}
+
+.tm-text-yellow {
+    color: #FFFF66;
+}
+
+.tm-text-orange {
+    color: #CC9966;
+}
+
+.tm-bg-dark {
+    background-color: #262626;
+}
+
+.tm-bg-dark-light {
+    background-color: #404040;
+}
+
+hr {
+    border-color: #666666;
+    max-width: 70%;
+}
+
+.tm-video-iframe {
+    height: auto;
+}
+
+.tm-timeline-item {
+    margin-left: 70px;
+}
+
+.tm-timeline-item-inner {
+    display: flex;
+    align-items: center;
+}
+
+.tm-img-timeline {
+    width: 160px;
+    height: 160px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.tm-timeline-connector {
+    width: 55px;
+    height: 3px;
+    background-color: #404040;
+}
+
+.tm-timeline-connector-vertical {
+    height: 60px;
+    width: 3px;
+    background-color: #404040;
+    margin-left: 260px;
+}
+
+.tm-timeline-description {
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 20px;
+    padding: 35px 40px;
+    max-width: 712px;
+}
+
+.tm-section-mb {
+    margin-bottom: 85px;
+}
+
+.tm-section-mt {
+    margin-top: 85px;
+}
+
+.tm-contact-form {
+    max-width: 500px;
+}
+
+.form-control {
+    border-radius: 0;
+    border-color: #666666;
+	color: #CCC;
+    background: transparent;
+    padding: 12px 15px;
+}
+
+.form-control::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #CCCCCC;
+    opacity: 1;
+    /* Firefox */
+}
+
+.form-control:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #DDDDDD;
+}
+
+.form-control::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #DDDDDD;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+#google-map {
+    max-width: 500px;
+    width: 100%;
+    height: 300px;
+}
+
+.tm-btn-send {
+    border-radius: 0;
+    font-size: 1.1rem;
+    padding: 12px 50px;
+    background: transparent;
+    border: 1px solid #CCCCCC;
+    color: #CCCCCC;
+}
+
+.tm-btn-send:hover,
+.tm-btn-send:focus {
+    background: #CCCCCC;
+    color: #333333;
+}
+
+.form-control:focus {
+    background-color: transparent;
+    border-color: #CCCCCC;
+	color: #FFF;
+    box-shadow: 0 0 0 0.2rem #cccccc14;
+}
+
+input,
+textarea,
+[contenteditable] {
+    caret-color: #FFFFFF;
+}
+
+p {
+    line-height: 1.9;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1310px;
+    }
+    .tm-container-2 {
+        max-width: 1170px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .tm-video-container {
+        max-width: 932px;
+        max-height: 466px;
+    }
+    .tm-video-text-overlay {
+        left: 60%;
+    }
+}
+
+@media (max-width: 991px) {
+    #google-map,
+    .tm-contact-form {
+        max-width: 100%;
+    }
+    .google-map-iframe {
+        width: 100%;
+    }
+    .tm-video-container {
+        max-width: 690px;
+        max-height: 345px;
+    }
+    .tm-video-text-overlay {
+        left: 45%;
+    }
+	.tm-video-text-overlay h1 {
+		font-size: 2.8rem;
+	}
+    .tm-timeline-item {
+        margin-left: 25px;
+    }
+}
+
+@media (max-width: 767px) {
+    .tm-timeline-item {
+        margin-left: 0;
+    }
+    .tm-video-container {
+        max-width: 510px;
+        max-height: 255px;
+    }
+    .tm-video-container,
+    .tm-welcome-video {
+        min-height: 220px;
+    }
+    .tm-video-text-overlay {
+        left: 25%;
+    }
+}
+
+@media (max-width: 584px) {
+    .tm-timeline-item-inner {
+        flex-direction: column;
+    }
+    .tm-timeline-connector {
+        width: 3px;
+        height: 55px;
+    }
+    .tm-timeline-connector-vertical {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 575px) {
+    .container {
+        max-width: 540px;
+    }
+    .tm-video-text-overlay {
+        left: 30%;
+    }
+    .tm-video-text-overlay h1 {
+        font-size: 1.8rem;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .tm-video-container {
+        overflow-x: hidden;
+    }
+    .tm-welcome-video {
+        min-width: auto;
+        max-width: 125%;
+    }
+}
