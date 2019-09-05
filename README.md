@@ -29,9 +29,9 @@ h1 {
 </html>
 <p>WE LOVE BITCOIN
   
-  <S>
+  <p>
   LUCAS LOVES BITCOIN
-  
+  </p>
   DAISY LOVES BITCOIN...</p>
 
 </body>
