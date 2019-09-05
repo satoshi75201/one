@@ -54,6 +54,13 @@ p {
 <body>
 
 <h1>My First CSS Example</h1>
+
+<!-- HTML Codes by Code-Generator.net -->
+<style type="text/css">
+.myspace-marquee {height:200px;width:400px;background-color:ffff33;font-family:Cursive;font-size:22pt;color:33cc33;border-width:4;border-style:dotted;border-color:ff0000;}
+</style>
+<marquee class="myspace-marquee" direction="left" behavior="scroll" scrollamount="10" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:10px;"><a href="http://www.code-generator.net/html/codes/html-marquee-codes.cfm">Marquee codes</a></p>
+
 <p>This is a paragraph.</p>
 
 </body>
