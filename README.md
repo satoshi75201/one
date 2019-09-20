@@ -238,11 +238,11 @@ You can get your first bitcoins from any of these four places.
 
     A cryptocurrency exchange where you can exchange ‘regular’ coins for bitcoins, or for satoshis, which are like the BTC-type of cents. Resources:  Coinbase and Coinsquare in the US & Canada, and BitBargain UK and Bittylicious in the UK.
 
-    A Bitcoin ATM (or cryptocurrency exchange) where you can change bitcoins or cash for another cryptocurrency. Resources: Your best bets are BTER and CoinCorner
+    A Bitcoin ATM (or cryptocurrency exchange) where you can change bitcoins or cash for another cryptocurrency. Resources: Your best bets are TAO Bitcoin https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwifiYOI-d7kAhUQna0KHcFOBTwQgU8wAHoECAkQKQ&url=http%3A%2F%2Fwww.taobitcoin.com%2F&usg=AOvVaw2OUlTZQVxNKVcLJj2v-un0
 
-    A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.
+    A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.com <li><a href="https://localbitcoins.com">LocalBitcoins</a></li>
 
-    You could sell a product or service for bitcoins. Resources: Sites like Purse.
+    You could sell a product or provide a service for bitcoins. 
 
 Caution! Bitcoin is notorious for scams, so before using any service look for reviews from previous customers or post your questions on the Bitcoin forum.
         
