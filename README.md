@@ -178,3 +178,62 @@ An image that is a link:
 
 </body>
 </html>
+
+
+
+<div id="container">
+  <div id="content">
+    <div id="about">
+      <h1>
+        <div style='float:left; margin-bottom:20px;'>
+          SoundBTC
+       
+        </div>
+        <div class="stage">
+          <div class="pyramid3d">
+            <div class="triangle side1"></div>
+            <div class="triangle side2"></div>
+            <div class="triangle side3"></div>
+            <div class="triangle side4"></div>
+          </div>
+        </div> 
+      </h1>
+      <h3 style='clear:both' class="subhead">
+        <a href="">What is Bitcoin?</a>
+Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.
+
+Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity. The mathematical field of cryptography is the basis for Bitcoin's security. 
+      </h3>
+      <p id='pleft'>
+        Who invented Bitcoin? <a href="https://css-tricks.com/css-animation-tricks/">CSS</a> <a href="https://css-tricks.com/controlling-css-animations-transitions-javascript/">Tricks</a>, worked at <a href="http://deltadatasoft.com/">Delta Data Software</a> as a front-end developer, and is continuously working on personal projects to up his game.
+      </p>
+      <p id='pright'>
+        Where can I find Bitcoins?
+
+First, we would recommend you read this in-depth guide for buying Bitcoin.
+
+You can get your first bitcoins from any of these four places.
+
+    A cryptocurrency exchange where you can exchange ‘regular’ coins for bitcoins, or for satoshis, which are like the BTC-type of cents. Resources:  Coinbase and Coinsquare in the US & Canada, and BitBargain UK and Bittylicious in the UK.
+
+    A Bitcoin ATM (or cryptocurrency exchange) where you can change bitcoins or cash for another cryptocurrency. Resources: Your best bets are BTER and CoinCorner
+
+    A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.
+
+    You could sell a product or service for bitcoins. Resources: Sites like Purse.
+
+Caution! Bitcoin is notorious for scams, so before using any service look for reviews from previous customers or post your questions on the Bitcoin forum.
+        
+        Look for some of his work &amp; experiments on <a href="https://codepen.io/Zeaklous">CodePen</a>, <a href="http://stackoverflow.com/users/2065702/zeaklous">StackOverflow</a>, <a href="https://cssdeck.com/user/Zeaklous">CSS Deck</a>, or a bit of his recent work below.
+      </p>
+      <ul>
+        <li><a href="https://cssdeck.com/labs/css-only-full-page-slider">CSS Only Full Page Slider</a></li>
+        <li><a href="https://codepen.io/Zeaklous/pen/alpEm">CSS3 Circular Questionnaire (Plugin in development)</a></li>
+        <li><a href="https://zachsaucier.com/TumblrBook.html">TumblrBook</a></li>
+      </ul>
+      <p>
+        Feel free to contact him at zachsaucier[at]gmail.com if you'd like for him to work for you!
+      </p>
+    </div>
+  </div>
+</div>
