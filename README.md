@@ -181,7 +181,11 @@ p {
  <p id='pleft'>
         <h3 style='clear:both' class="subhead">
         <a href="">Who invented Bitcoin?</a> <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</p> 
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg" alt="satoshi" width="500" height="600">
+
+</body>
+</html>
+
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!
