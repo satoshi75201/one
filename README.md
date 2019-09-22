@@ -43,11 +43,6 @@ body {
   <a href="#What is Bitcoin?">About</a>
 </div>
 
-<div style="padding-left:16px">
-  <h2>Top Navigation Example</h2>
-  <p>asdfasdfasdf</p>
-</div>
-
 </body>
 </html>
 
