@@ -83,10 +83,8 @@ h1 {
 </head>
 <body>
 
-<p>Welcome to SoundBTC! Here you will find some general information on Bitcoin and Blockchain.</p>
+<p>Welcome! Here you will find some general information on Bitcoin and Blockchain.</p>
 
-</body>
-</html>
 <p>WE LOVE BITCOIN
   
   <p>
