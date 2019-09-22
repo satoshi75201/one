@@ -58,6 +58,23 @@ body {
 <h1>Welcome to SoundBTC!</h1> <html>
 <body>
 
+</body>
+</html>
+
+<html>
+<head>
+<style>
+body {
+  color: white;
+}
+
+h1 {
+  color: green;
+}
+</style>
+</head>
+<body>
+
 
 <p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
@@ -166,26 +183,8 @@ p {
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!</p>
-<p>Let us know how you feel aobut this website!.</p>
-    
-    
-      <p id='pright'>
-</h3> Where can I find Bitcoins?</h3>
-<a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
-      </p>
-
-First, we would recommend you read this in-depth guide for buying Bitcoin.
-
-You can get your first bitcoins from any of these four places.
-
-    A cryptocurrency exchange where you can exchange ‘regular’ coins for bitcoins, or for satoshis, which are like the BTC-type of cents. Resources:  Coinbase and Coinsquare in the US & Canada, and BitBargain UK and Bittylicious in the UK.
-
-    A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.com <li><a href="https://localbitcoins.com">LocalBitcoins</a></li>
-
-    You can sell a product or provide a service for bitcoins. 
 
 
-        Look for some of his work &amp; experiments on <a href="https://codepen.io/Zeaklous">CodePen</a>, <a href="http://stackoverflow.com/users/2065702/zeaklous">StackOverflow</a>, <a href="https://cssdeck.com/user/Zeaklous">CSS Deck</a>, or a bit of his recent work below.
       </p>
       <ul>
         <li><a href="https://www.coinbase.com/join/hays_wr">Get Bitcoins!</a></li>
