@@ -277,7 +277,6 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
 <body>
 
 <a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7140196&style=0006&nbdigits=8&type=page&initCount=0" title="Home Remedies For Wrinkles" Alt="Home Remedies For Wrinkles"   border="0" >
-</a>                                        <br/>
+<img src="http://hitwebcounter.com/counter/counter.php?page=7140196&style=0006&nbdigits=8&type=page&initCount=0" 
                                        
                             
