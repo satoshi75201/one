@@ -90,6 +90,9 @@ h1 {
 </html>
 
 
+<img src="https://media.giphy.com/media/Qsafh7MY500HoizIol/giphy.gif" loop=infinite />
+
+
 <html>
 <head>
 <style>
