@@ -178,7 +178,7 @@ p {
 <p>The mathematical field of cryptography is the basis for Bitcoin's security.</p> 
       </h3>
       <p id='pleft'>
-        Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
+        Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</p> 
     
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
