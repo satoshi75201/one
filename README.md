@@ -172,11 +172,6 @@ Comments Please:<br />
 <html>
 <body>
 
-<img src="https://giphy.com/gifs/kgKrO1A3JbWTK/html5" alt="Smiley face" width="42" height="42">
-
-<html>
-<body>
-
 
 
 </body>
