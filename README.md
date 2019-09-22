@@ -156,14 +156,6 @@ p {
 </style>
 <marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
 
-<p>Let us know how you feel aobut this website!.</p>
-<form action="/html/codes/html-comment-box-code-action.cfm" method="get">
-Comments Please:<br />
-<textarea rows="4" cols="25"></textarea><br />
-<input type="submit" value="Submit" />
-</form>
-<p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
-
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">
 
 
@@ -217,6 +209,14 @@ You can get your first bitcoins from any of these four places.
         <li><a href="https://bitcoin.org/en/faq#general">Bitcoin</a></li>
         <li><a href="https://www.nhl.com/">NHL</a></li>
       </ul>
+      
+      <p>Let us know how you feel aobut this website!.</p>
+<form action="/html/codes/html-comment-box-code-action.cfm" method="get">
+Comments Please:<br />
+<textarea rows="4" cols="25"></textarea><br />
+<input type="submit" value="Submit" />
+</form>
+<p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
       <p>
         Feel free to contact SoundBTC at <a href="mailto:soundbtc@gmail.com">Dannie@SoundBTC.com</a>
    
