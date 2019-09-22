@@ -85,14 +85,10 @@ h1 {
 <p>LUCAS LOVES BITCOIN
 </p>DAISY LOVES BITCOIN...
 </p>
-<div id=”mainDiv”>
 
-<\div>
-<div style="width:75%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/Qsafh7MY500HoizIol" width="75%" height="75%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/boxer-Qsafh7MY500HoizIol">via GIPHY</a></p>
-</body>
-</html>
+<div style="width:75%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/Qsafh7MY500HoizIol" width="75%" height="75%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
 
-<\div>
+
 <html>
 <head>
 <style>
