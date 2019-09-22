@@ -273,9 +273,7 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
       <p>
         Feel free to contact him at soundbtc[at]gmail.com if you'd like for him to work for you!
       </p>
-    </div>
-  </div>
-</div>
+ 
 
 <html>
 <body>
