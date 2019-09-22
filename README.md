@@ -261,8 +261,7 @@ You can get your first bitcoins from any of these four places.
 
     You could sell a product or provide a service for bitcoins. 
 
-Caution! Bitcoin is notorious for scams, so before using any service look for reviews from previous customers or post your questions on the Bitcoin forum.
-        
+
         Look for some of his work &amp; experiments on <a href="https://codepen.io/Zeaklous">CodePen</a>, <a href="http://stackoverflow.com/users/2065702/zeaklous">StackOverflow</a>, <a href="https://cssdeck.com/user/Zeaklous">CSS Deck</a>, or a bit of his recent work below.
       </p>
       <ul>
