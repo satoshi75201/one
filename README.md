@@ -176,19 +176,7 @@ Comments Please:<br />
         <div style='float:left; margin-bottom:20px;'>
           SoundBTC
        
-        </div>
-        <div class="stage">
-          <div class="pyramid3d">
-            <div class="triangle side1"></div>
-            <div class="triangle side2"></div>
-            <div class="triangle side3"></div>
-            <div class="triangle side4"></div>
-          </div>
-        </div> 
-      </h1>
-  
-
-      </h1>
+   
       <h3 style='clear:both' class="subhead">
         <a href="">What is Bitcoin?</a>
 Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.
