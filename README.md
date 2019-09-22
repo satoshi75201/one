@@ -189,8 +189,7 @@ Comments Please:<br />
           </div>
         </div> 
       </h1>
-      <h3 style='clear:both' class="subhead">
-        <a href="">What is Bitcoin?</a>
+  
 
       </h1>
       <h3 style='clear:both' class="subhead">
