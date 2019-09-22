@@ -200,8 +200,6 @@ An image that is a link:
       </h1>
       <h3 style='clear:both' class="subhead">
         <a href="">What is Bitcoin?</a>
-Caution! Bitcoin is notorious for scams, so before using any service look for reviews from previous customers or post your questions on the Bitcoin forum.
-
 
 <div id="container">
   <div id="content">
@@ -259,3 +257,30 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
     </div>
   </div>
 </div>
+
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p><a href="https://bitcoin.org/bitcoin.pdf">Read Bitcoin Whitepaper</a></p>
+
+</body>
+</html>
