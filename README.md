@@ -275,8 +275,6 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
 
 <html>
 <body>
-
-<a href="http://www.hitwebcounter.com" target="_blank">
-<img src="http://hitwebcounter.com/counter/counter.php?page=7140196&style=0006&nbdigits=8&type=page&initCount=0" 
+<script type="text/javascript" src="//counter.websiteout.net/js/2/8/0/0"></script>
                                        
                             
