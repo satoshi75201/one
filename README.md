@@ -183,13 +183,14 @@ Comments Please:<br />
 <p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
 <p>From a user perspective, Bitcoin is pretty much like cash for the Internet. </p>
 <p>Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</p>
-
-Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity. The mathematical field of cryptography is the basis for Bitcoin's security. 
+<p>Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity.</p> 
+<p>The mathematical field of cryptography is the basis for Bitcoin's security.</p> 
       </h3>
       <p id='pleft'>
-        Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
+        Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</p>
     
-    
+<p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.
+  As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network. Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!</p>
 <p>Let us know how you feel aobut this website!.</p>
     
     
