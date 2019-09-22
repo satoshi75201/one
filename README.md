@@ -243,15 +243,13 @@ Bitcoin is a digital and global money system currency. It allows people to send 
         Who invented Bitcoin? <a href="https://css-tricks.com/css-animation-tricks/">CSS</a> <a href="https://css-tricks.com/controlling-css-animations-transitions-javascript/">Tricks</a>, worked at <a href="http://deltadatasoft.com/">Delta Data Software</a> as a front-end developer, and is continuously working on personal projects to up his game.
       </p>
       <p id='pright'>
-        Where can I find Bitcoins?
+</h3> Where can I find Bitcoins?</h3>
 
 First, we would recommend you read this in-depth guide for buying Bitcoin.
 
 You can get your first bitcoins from any of these four places.
 
     A cryptocurrency exchange where you can exchange ‘regular’ coins for bitcoins, or for satoshis, which are like the BTC-type of cents. Resources:  Coinbase and Coinsquare in the US & Canada, and BitBargain UK and Bittylicious in the UK.
-
-    A Bitcoin ATM (or cryptocurrency exchange) where you can change bitcoins or cash for another cryptocurrency. Resources: Your best bets are TAO Bitcoin https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwifiYOI-d7kAhUQna0KHcFOBTwQgU8wAHoECAkQKQ&url=http%3A%2F%2Fwww.taobitcoin.com%2F&usg=AOvVaw2OUlTZQVxNKVcLJj2v-un0
 
     A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.com <li><a href="https://localbitcoins.com">LocalBitcoins</a></li>
 
