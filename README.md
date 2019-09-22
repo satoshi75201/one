@@ -158,7 +158,11 @@ p {
 <body>
 
 <p><a href="https://login.blockchain.com/#/signup">Blockchain Wallet</a></p>
-<p><a href="https://www.exodus.io/download">Exodus Wallet>/a></p>
+
+<html>
+<body>
+  
+<p><a href="https://www.exodus.io/download">Exodus Wallet</a></p>
 
 </body>
 </html>
