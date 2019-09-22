@@ -36,7 +36,6 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
   <a href="#How Can I Buy Bitcoin?">Buy Bitcoin</a>
   <a href="#Where Can I Buy Bitcoin?">Contact</a>
   <a href="#How Do I Store Bitcoin?">Wallet</a>
@@ -50,7 +49,7 @@ body {
 <head>
 <style>
 body {
-  background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_hubble3.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2018/05/14/16/54/cyber-3400789_1280.jpg");
 }
 </style>
 </head>
