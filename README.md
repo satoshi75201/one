@@ -126,6 +126,44 @@ p {
 
 <h1>What is Bitcoin?</h1>
 
+
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://bitcoin.org/bitcoin.pdf">Read Bitcoin Whitepaper</a></p>
+
+</body>
+</html>
+
+<h2>Bitcoin Wallets</h2>
+
+<html>
+<body>
+
+<p><a href="https://login.blockchain.com/#/signup">Blockchain Wallet</a></p>
+<p><a href="https://www.exodus.io/download">Exodus Wallet>/a></p>
+
+</body>
+</html>
+
+
 <style type="text/css">
 .myspace-marquee {height:200px;width:400px;background-color:ffff33;font-family:Cursive;font-size:22pt;color:33cc33;border-width:4;border-style:dotted;border-color:ff0000;}
 </style>
@@ -261,26 +299,4 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
 <html>
 <body>
 
-<h2>HTML Links</h2>
-<p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
 
-</body>
-</html>
-
-<html>
-<body>
-
-<h2>HTML Links</h2>
-<p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
-
-</body>
-</html>
-
-<html>
-<body>
-
-<h2>HTML Links</h2>
-<p><a href="https://bitcoin.org/bitcoin.pdf">Read Bitcoin Whitepaper</a></p>
-
-</body>
-</html>
