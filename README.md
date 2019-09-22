@@ -58,26 +58,8 @@ body {
 <h1>Welcome to SoundBTC!</h1> <html>
 <body>
 
-<img src="smiley.gif" alt="Smiley face" width="42" height="42">
 
-</body>
-</html>
-
-<html>
-<head>
-<style>
-body {
-  color: white;
-}
-
-h1 {
-  color: green;
-}
-</style>
-</head>
-<body>
-
-<p>Welcome! Here you will find some general information on Bitcoin and Blockchain.</p>
+<p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
   
