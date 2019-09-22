@@ -241,7 +241,11 @@ Bitcoin is a digital and global money system currency. It allows people to send 
       </h3>
       <p id='pleft'>
         Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
-      </p>
+    
+    
+    
+    
+    
       <p id='pright'>
 </h3> Where can I find Bitcoins?</h3>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
