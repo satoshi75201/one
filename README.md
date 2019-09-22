@@ -179,7 +179,10 @@ Comments Please:<br />
    
       <h3 style='clear:both' class="subhead">
         <a href="">What is Bitcoin?</a>
-Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.
+Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet! 
+It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. 
+From a user perspective, Bitcoin is pretty much like cash for the Internet. 
+Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.
 
 Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity. The mathematical field of cryptography is the basis for Bitcoin's security. 
       </h3>
