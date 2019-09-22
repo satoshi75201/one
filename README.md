@@ -83,7 +83,8 @@ h1 {
 <p>WE LOVE BITCOIN
   
 <p>LUCAS LOVES BITCOIN
-</p>DAISY LOVES BITCOIN...</p>
+</p>DAISY LOVES BITCOIN...
+</p>
 
 </body>
 </html>
@@ -166,7 +167,7 @@ Comments Please:<br />
 </form>
 <p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
 
-<iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">
 
 <html>
 <body>
