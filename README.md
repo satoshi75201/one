@@ -87,10 +87,8 @@ h1 {
 
 <p>WE LOVE BITCOIN
   
-  <p>
-  LUCAS LOVES BITCOIN
-  </p>
-  DAISY LOVES BITCOIN...</p>
+<p>LUCAS LOVES BITCOIN
+</p>DAISY LOVES BITCOIN...</p>
 
 </body>
 </html>
