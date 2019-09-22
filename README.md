@@ -179,10 +179,10 @@ Comments Please:<br />
    
       <h3 style='clear:both' class="subhead">
         <a href="">What is Bitcoin?</a>
-Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet! 
-It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. 
-From a user perspective, Bitcoin is pretty much like cash for the Internet. 
-Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.
+<p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
+<p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
+<p>From a user perspective, Bitcoin is pretty much like cash for the Internet. </p>
+<p>Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</p>
 
 Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity. The mathematical field of cryptography is the basis for Bitcoin's security. 
       </h3>
@@ -190,7 +190,7 @@ Bitcoin is a digital and global money system currency. It allows people to send 
         Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
     
     
-    
+<p>Let us know how you feel aobut this website!.</p>
     
     
       <p id='pright'>
@@ -206,7 +206,7 @@ You can get your first bitcoins from any of these four places.
 
     A classified service where you can find a seller who will help you trade bitcoins for cash. Resources: The definitive site is LocalBitcoins.com <li><a href="https://localbitcoins.com">LocalBitcoins</a></li>
 
-    You could sell a product or provide a service for bitcoins. 
+    You can sell a product or provide a service for bitcoins. 
 
 
         Look for some of his work &amp; experiments on <a href="https://codepen.io/Zeaklous">CodePen</a>, <a href="http://stackoverflow.com/users/2065702/zeaklous">StackOverflow</a>, <a href="https://cssdeck.com/user/Zeaklous">CSS Deck</a>, or a bit of his recent work below.
