@@ -240,7 +240,8 @@ Bitcoin is a consensus network that enables a new payment system and a completel
 Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity. The mathematical field of cryptography is the basis for Bitcoin's security. 
       </h3>
       <p id='pleft'>
-        Who invented Bitcoin? <a href="https://css-tricks.com/css-animation-tricks/">CSS</a> <a href="https://css-tricks.com/controlling-css-animations-transitions-javascript/">Tricks</a>, worked at <a href="http://deltadatasoft.com/">Delta Data Software</a> as a front-end developer, and is continuously working on personal projects to up his game.
+        Who invented Bitcoin? <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</a> 
+  <a href="https://css-tricks.com/controlling-css-animations-transitions-javascript/">Tricks</a>, worked at <a href="http://deltadatasoft.com/">Delta Data Software</a> as a front-end developer, and is continuously working on personal projects to up his game.
       </p>
       <p id='pright'>
 </h3> Where can I find Bitcoins?</h3>
