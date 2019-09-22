@@ -271,7 +271,8 @@ Caution! Bitcoin is notorious for scams, so before using any service look for re
         <li><a href="https://www.nhl.com/">NHL</a></li>
       </ul>
       <p>
-        Feel free to contact him at soundbtc[at]gmail.com if you'd like for him to work for you!
+        Feel free to contact SoundBTC at <a href="mailto:soundbtc@gmail.com">Dannie@SoundBTC.com</a>
+   
       </p>
  
 
