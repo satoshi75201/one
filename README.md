@@ -83,11 +83,10 @@ h1 {
 <p>WE LOVE BITCOIN
   
 <p>LUCAS LOVES BITCOIN
-</p>DAISY LOVES BITCOIN...
+<p>DAISY LOVES BITCOIN...
 </p>
 
 <div style="width:75%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/Qsafh7MY500HoizIol" width="75%" height="75%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
-
 
 <html>
 <head>
