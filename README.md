@@ -169,17 +169,6 @@ Comments Please:<br />
 
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">
 
-<html>
-<body>
-
-
-
-</body>
-</html>
-
-
-</body>
-</html>
 
 
 
