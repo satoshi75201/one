@@ -156,52 +156,8 @@ p {
   </script>
 </div>
 <!-- TradingView Widget END -->
-<h2>HTML Links</h2>
-<p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
-
-</body>
-</html>
-
-<html>
-<body>
-
-<p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
-
-</body>
-</html>
-
-<html>
-<body>
-
-<p><a href="https://bitcoin.org/bitcoin.pdf">Read Bitcoin Whitepaper</a></p>
-
-</body>
-</html>
-
-<h2>Bitcoin Wallets</h2>
-
-<html>
-<body>
-
-<p><a href="https://login.blockchain.com/#/signup">Blockchain Wallet</a></p>
-
-<html>
-<body>
   
-<p><a href="https://www.exodus.io/download">Exodus Wallet</a></p>
-
-</body>
-</html>
-
-<html>
-<body>
-<style type="text/css">
-.myspace-marquee {height:200px;width:400px;background-color:#FFFF00;font-family:Bold;font-size:50;color:#0066FF;border-width:4;border-style:solid;border-color:0066FF;}
-</style>
-<marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
-
-
-<html>
+  <html>
 <body>
    <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
@@ -250,7 +206,7 @@ p {
 <p>You can get Bitcoin a number of ways.</p>
   <p>You can receive Bitcoin as payment for goods and services.</p>
     <p>You can purchase Bitcoin on an exchange, e.g.; Coinbase, Cash App, Robinhood, and Gemini.</p>
-      <p>You can purchase Bitcoin locally at Bitcoin ATM's;<p><a href="https://coinatmradar.com/">Bitcoin ATM near me</a></p>
+      <p>You can purchase Bitcoin locally at Bitcoin ATM's;<p><a href="https://coinatmradar.com/">Bitcoin ATM near me</a></p></p>
         <p></p>
           <p></p>
             <p></p>
@@ -270,6 +226,56 @@ p {
         <p></p>
           <p></p>
             <p></p>
+  
+  
+  
+  
+<h2>HTML Links</h2>
+<p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p><a href="https://bitcoin.org/bitcoin.pdf">Read Bitcoin Whitepaper</a></p>
+
+</body>
+</html>
+
+<h2>Bitcoin Wallets</h2>
+
+<html>
+<body>
+
+<p><a href="https://login.blockchain.com/#/signup">Blockchain Wallet</a></p>
+
+<html>
+<body>
+  
+<p><a href="https://www.exodus.io/download">Exodus Wallet</a></p>
+
+</body>
+</html>
+
+<html>
+<body>
+<style type="text/css">
+.myspace-marquee {height:200px;width:400px;background-color:#FFFF00;font-family:Bold;font-size:50;color:#0066FF;border-width:4;border-style:solid;border-color:0066FF;}
+</style>
+<marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
+
+
+
 <h3 style='clear:both' class="subhead">
 
 
