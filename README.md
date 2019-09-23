@@ -229,7 +229,7 @@ p {
             <p></p>
 
           
-<h3 style='clear:both' class="subhead">
+
   <h2>Who invented Bitcoin?</h2>
                 
            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
