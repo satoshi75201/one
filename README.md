@@ -248,9 +248,9 @@ p {
             <p></p>
 <h2>How do I get Bitcoin?</h2>
 <p>You can get Bitcoin a number of ways.</p>
-  <p>You can recieve Bitcoin as payment for goods and services.</p>
+  <p>You can receive Bitcoin as payment for goods and services.</p>
     <p>You can purchase Bitcoin on an exchange, e.g.; Coinbase, Cash App, Robinhood, and Gemini.</p>
-      <p>You can purchase Bitcoin locally at Bitcoin ATM's; Click this link to find BTC-ATM's near you. <li><a href="https://coinatmradar.com/">Bitcoin ATM near me</a></li> : </p>
+      <p>You can purchase Bitcoin locally at Bitcoin ATM's; Click this link to find BTC-ATM's near you. <p><a href="https://coinatmradar.com/">Bitcoin ATM near me</a></p>
         <p></p>
           <p></p>
             <p></p>
