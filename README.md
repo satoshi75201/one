@@ -222,10 +222,13 @@ p {
 <p>Bitcoin is a digital and global money system currency. It allows people to send or receive money across the internet, even to someone they don't know or don't trust. Money can be exchanged without being linked to a real identity.</p> 
 <p>The mathematical field of cryptography is the basis for Bitcoin's security.</p> 
       
- </h3>
+ </h2>
  <p id='pleft'>
-        <h3 style='clear:both' class="subhead">
-        <a href="">Who invented Bitcoin?</a> <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</p> 
+        <h2 style='clear:both' class="subhead">
+        <a href="">Who invented Bitcoin?</a>
+          
+          
+           <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto</p> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg" alt="satoshi" width="500" height="600">
 
 </body>
