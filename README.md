@@ -201,8 +201,6 @@ p {
 </style>
 <marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
 
-<iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI"></p>
-
 
 <html>
 <body>
