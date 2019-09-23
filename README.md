@@ -49,7 +49,7 @@ body {
 <head>
 <style>
 body {
-  background-image: url("https://cdn.pixabay.com/photo/2018/05/14/16/54/cyber-3400789_1280.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1920px-Starburst_in_NGC_4449_%28captured_by_the_Hubble_Space_Telescope%29.jpg");
 }
 </style>
 </head>
