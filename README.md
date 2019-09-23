@@ -212,9 +212,7 @@ p {
         <div style='float:left; margin-bottom:20px;'>
 
        
-   
-      <h3 style='clear:both' class="subhead">
-        <a href="">What is Bitcoin?</a>
+   <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
 <p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
 <p>From a user perspective, Bitcoin is pretty much like cash for the Internet. </p>
@@ -241,6 +239,8 @@ p {
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!
+  
+<h3 style='clear:both' class="subhead">
 
       </p>
       <ul>
