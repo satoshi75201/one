@@ -196,7 +196,7 @@ p {
 <html>
 <body>
 <style type="text/css">
-.myspace-marquee {height:200px;width:400px;background-color:#003300;font-family:Cursive;font-size:22pt;color:FFFF00;border-width:4;border-style:dotted;border-color:ff0000;}
+.myspace-marquee {height:200px;width:400px;background-color:#FFFF00;font-family:Bold;font-size:22pt;color:#0066FF;border-width:4;border-style:solid;border-color:0066FF;}
 </style>
 <marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
 
