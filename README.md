@@ -227,15 +227,52 @@ p {
 <h3 style='clear:both' class="subhead">
   <h2>Who invented Bitcoin?</h2>
                 
-     
-
+<p></p>
+  <p></p>
+    <p></p>
+      <p></p>
+        <p></p>
+          <p></p>
+            <p></p>
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!
 
+<h2>Is Bitcoin safe?</h2>
+<p></p>
+  <p></p>
+    <p></p>
+      <p></p>
+        <p></p>
+          <p></p>
+            <p></p>
+<h2>How do I get Bitcoin?</h2>
+<p></p>
+  <p></p>
+    <p></p>
+      <p></p>
+        <p></p>
+          <p></p>
+            <p></p>
+<h2>How do I store my Bitcoin?</h2>
+<p></p>
+  <p></p>
+    <p></p>
+      <p></p>
+        <p></p>
+          <p></p>
+            <p></p>
+<h2>What is Blockchain?</h2>
+<p></p>
+  <p></p>
+    <p></p>
+      <p></p>
+        <p></p>
+          <p></p>
+            <p></p>
 <h3 style='clear:both' class="subhead">
 
-      </p>
+   
       <ul>
         <li><a href="https://www.coinbase.com/join/hays_wr">Get Bitcoins!</a></li>
         <li><a href="https://bitcoin.org/en/faq#general">Bitcoin</a></li>
