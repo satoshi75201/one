@@ -194,7 +194,8 @@ p {
 </body>
 </html>
 
-
+<html>
+<body>
 <style type="text/css">
 .myspace-marquee {height:200px;width:400px;background-color:#003300;font-family:Cursive;font-size:22pt;color:FFFF00;border-width:4;border-style:dotted;border-color:ff0000;}
 </style>
@@ -202,9 +203,12 @@ p {
 
 <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">
 
+</body>
+</html>
 
 
-
+<html>
+<body>
    <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
 <p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
@@ -220,19 +224,28 @@ p {
         <p></p>
           <p></p>
             <p></p>
+</body>
+</html>
 
-          
+ 
+<html>
+<body>         
 <h3 style='clear:both' class="subhead">
   <h2>Who invented Bitcoin?</h2>
                 
            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
-    
 
+</body>
+</html>
+
+ <html>
+<body>  
 
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!
-  
+  </body>
+</html>
 <h3 style='clear:both' class="subhead">
 
       </p>
