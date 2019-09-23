@@ -131,7 +131,32 @@ p {
 
 <html>
 <body>
-
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tv-medium-widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTCUSD</span></a> <span class="blue-text">and</span> <a href="https://www.tradingview.com/symbols/FX_IDC-XAUUSD/" rel="noopener" target="_blank"><span class="blue-text">XAUUSD Quotes</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.MediumWidget(
+  {
+  "container_id": "tv-medium-widget",
+  "symbols": [
+    "COINBASE:BTCUSD|12m",
+    "FX_IDC:XAUUSD|12m"
+  ],
+  "greyText": "Quotes by",
+  "gridLineColor": "#e9e9ea",
+  "fontColor": "#83888D",
+  "underLineColor": "rgba(255, 229, 153, 1)",
+  "trendLineColor": "#4bafe9",
+  "width": "1000px",
+  "height": "400px",
+  "locale": "en"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
 <h2>HTML Links</h2>
 <p><a href="https://www.coinbase.com">Visit Coinbase</a></p>
 
