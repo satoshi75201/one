@@ -56,6 +56,8 @@ body {
 </head>
 <body>
 
+<iframe src="https://giphy.com/embed/S5JSwmQYHOGMo" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/please-construction-patient-S5JSwmQYHOGMo"></a></p>
+
 <h1>Welcome to SoundBTC!</h1> <html>
 <body>
 
