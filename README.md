@@ -210,7 +210,7 @@ p {
     <div id="about">
       <h1>
         <div style='float:left; margin-bottom:20px;'>
-          SoundBTC
+
        
    
       <h3 style='clear:both' class="subhead">
@@ -232,7 +232,8 @@ p {
 
           
 <h3 style='clear:both' class="subhead">
-        <a href="">Who invented Bitcoin?</a>         
+  <h2>Who invented Bitcoin?</h2>
+                
            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
     
 
