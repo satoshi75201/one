@@ -196,7 +196,7 @@ p {
 <html>
 <body>
 <style type="text/css">
-.myspace-marquee {height:200px;width:400px;background-color:#FFFF00;font-family:Bold;font-size:22pt;color:#0066FF;border-width:4;border-style:solid;border-color:0066FF;}
+.myspace-marquee {height:200px;width:400px;background-color:#FFFF00;font-family:Bold;font-size:50;color:#0066FF;border-width:4;border-style:solid;border-color:0066FF;}
 </style>
 <marquee class="myspace-marquee" direction="center" behavior="scroll" scrollamount="8" >WE LOVE BITCOIN!!</marquee><p style="font-family:verdana,arial,sans-serif;font-size:20px;"></p>
 
@@ -247,10 +247,10 @@ p {
           <p></p>
             <p></p>
 <h2>How do I get Bitcoin?</h2>
-<p></p>
-  <p></p>
-    <p></p>
-      <p></p>
+<p>You can get Bitcoin a number of ways.</p>
+  <p>You can recieve Bitcoin as payment for goods and services.</p>
+    <p>You can purchase Bitcoin on an exchange, e.g.; Coinbase, Cash App, Robinhood, and Gemini.</p>
+      <p>You can purchase Bitcoin locally at Bitcoin ATM's; Click this link to find BTC-ATM's near you. <li><a href="https://coinatmradar.com/">Bitcoin ATM near me</a></li> : </p>
         <p></p>
           <p></p>
             <p></p>
@@ -272,7 +272,7 @@ p {
             <p></p>
 <h3 style='clear:both' class="subhead">
 
-   
+
       <ul>
         <li><a href="https://www.coinbase.com/join/hays_wr">Get Bitcoins!</a></li>
         <li><a href="https://bitcoin.org/en/faq#general">Bitcoin</a></li>
