@@ -76,10 +76,9 @@ h1 {
 <body>
 
 
-<p>Here you will find some general information on Bitcoin and Blockchain.</p>
+<p>Our mission is simple; here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
-  
 <p>LUCAS LOVES BITCOIN
 <p>DAISY LOVES BITCOIN...
 </p>
