@@ -234,7 +234,7 @@ p {
 <h3 style='clear:both' class="subhead">
         <a href="">Who invented Bitcoin?</a>         
            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg" alt="satoshi" width="100" height="140">
+    
 
 
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
