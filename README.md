@@ -254,6 +254,15 @@ Comments Please:<br />
    
       </p>
  
+ <form action="/html/tags/html_form_tag_action.cfm" method="post">
+<textarea name="comments" id="comments" style="width:96%;height:150px;padding:2%;font-size:1.2em;background:url('/pix/samples/bubble2.gif');">
+Enter your comments here...
+
+...and watch your comment box grow scrollbars!
+</textarea>
+<input type="submit" value="Submit">
+</form>
+ 
 
 <html>
 <body>
