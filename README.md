@@ -56,7 +56,7 @@ body {
 </head>
 <body>
 
-<h1><a href="Welcome to SoundBTC!</h1> <html>
+<h1>Welcome to SoundBTC!</h1> <html>
 <body>
 
 </body>
@@ -77,7 +77,7 @@ h1 {
 <body>
 
 
-<p>Our mission is simple; here you will find some general information on Bitcoin and Blockchain.</p>
+<p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
 <p>LUCAS LOVES BITCOIN
@@ -106,7 +106,7 @@ p {
 </head>
 <body>
 
-<h1>What is Bitcoin?<!-- TradingView Widget BEGIN -->
+<h1>Current Price<!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTCUSD Rates</span></a> by TradingView</div>
@@ -158,8 +158,12 @@ p {
 </div>
 <!-- TradingView Widget END -->
   
+  
+  <iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
   <html>
 <body>
+  
+  
    <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
 <p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
@@ -242,8 +246,6 @@ p {
 
 <p><a href="https://www.bitcoin.org">Visit Bitcoin.org</a></p>
 
-</body>
-</html>
 
 <html>
 <body>
