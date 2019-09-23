@@ -254,14 +254,11 @@ Comments Please:<br />
    
       </p>
  
- <form action="/html/tags/html_form_tag_action.cfm" method="post">
-<textarea name="comments" id="comments" style="width:96%;height:150px;padding:2%;font-size:1.2em;background:url('/pix/samples/bubble2.gif');">
-Enter your comments here...
-
-...and watch your comment box grow scrollbars!
-</textarea>
-<input type="submit" value="Submit">
-</form>
+<!-- begin htmlcommentbox.com -->
+ <div id="HCB_comment_box">loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=(""+window.location).replace(/'/g,"%27") || hcb_user.PAGE, h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24WvYLTZZ7ooBqwL4R73YSf."+"&opts=17374&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end htmlcommentbox.com -->
  
 
 <html>
