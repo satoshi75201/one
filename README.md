@@ -233,32 +233,28 @@ p {
 <p>Satoshi Nakamoto is the name used by the pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation.</p>
   <p>As part of the implementation, Nakamoto also devised the first blockchain database. In the process, Nakamoto was the first to solve the double-spending problem for digital currency using a peer-to-peer network.</p> 
     <p>Nakamoto was active in the development of bitcoin up until December 2010. Many people have claimed, or have been claimed, to be "Satoshi." Maybe it was your grandma that invented Bitcoin!
-  </body>
-</html>
+
 <h3 style='clear:both' class="subhead">
 
       </p>
       <ul>
         <li><a href="https://www.coinbase.com/join/hays_wr">Get Bitcoins!</a></li>
         <li><a href="https://bitcoin.org/en/faq#general">Bitcoin</a></li>
-        <li><a href="https://www.nhl.com/">NHL</a></li>
+        <li><a href="https://www.tradingview.com/">TradingView</a></li>
       </ul>
       
       <p>Let us know how you feel aobut this website!.</p>
-<form action="/html/codes/html-comment-box-code-action.cfm" method="get">
-Comments Please:<br />
-<textarea rows="4" cols="25"></textarea><br />
-<input type="submit" value="Submit" />
-</form>
-<p style="font-size:10px;"><a style="color:gray;" href="http://www.code-generator.net/html/codes/">HTML Codes</a></p>
-      <p>
-        Feel free to contact SoundBTC at <a href="mailto:soundbtc@gmail.com">Dannie@SoundBTC.com</a>
-   
-      </p>
- 
+
+    
 <div id="HCB_comment_box">loading comments...</div>
  <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=(""+window.location).replace(/'/g,"%27") || hcb_user.PAGE, h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24WvYLTZZ7ooBqwL4R73YSf."+"&opts=17374&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+
+
+  <p>
+        Feel free to contact SoundBTC at <a href="mailto:soundbtc@gmail.com">Dannie@SoundBTC.com</a>
+                                         <a href="mailto:soundbtc@gmail.com">Support@SoundBTC.com</a>
+      </p>
 
  
 
