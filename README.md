@@ -76,8 +76,6 @@ h1 {
 </head>
 <body>
 
-<iframe src="https://giphy.com/embed/S5JSwmQYHOGMo" width="480" height="320" frameBorder="0" class="giphy-embed"allowFullScreen></iframe><p><a href="https://giphy.com/stickers/please-construction-patient-S5JSwmQYHOGMo"> 
-  
 <p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
