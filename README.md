@@ -211,7 +211,7 @@ p {
       <h1>
         <div style='float:left; margin-bottom:20px;'>
 
-       
+       <h3 style='clear:both' class="subhead">
    <h2>What is Bitcoin?</h2>
 <p>Bitcoin is a consensus network that enables a new payment system and a completely digital money. Essentially, it is the money of the internet!</p> 
 <p>It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen.</p> 
@@ -229,7 +229,7 @@ p {
             <p></p>
 
           
-
+<h3 style='clear:both' class="subhead">
   <h2>Who invented Bitcoin?</h2>
                 
            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Anonymous.svg">Satoshi Nakamoto
