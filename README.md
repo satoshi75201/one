@@ -106,7 +106,27 @@ p {
 </head>
 <body>
 
-<h1>What is Bitcoin?</h1>
+<h1>What is Bitcoin?<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/COINBASE-BTCUSD/" rel="noopener" target="_blank"><span class="blue-text">BTCUSD Rates</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+  "symbol": "COINBASE:BTCUSD",
+  "width": "450",
+  "height": "300",
+  "locale": "en",
+  "dateRange": "12m",
+  "colorTheme": "light",
+  "trendLineColor": "#37a6ef",
+  "underLineColor": "#e3f2fd",
+  "isTransparent": false,
+  "autosize": false,
+  "largeChartUrl": ""
+}
+  </script>
+</div>
+<!-- TradingView Widget END --></h1>
 
 
 <html>
