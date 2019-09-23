@@ -42,6 +42,9 @@ body {
   <a href="#What is Bitcoin?">About</a>
 </div>
 
+<a href="https://www.pimp-my-profile.com/graphics/view/r1"><img src="http://content.pimp-my-profile.com/graphics/wset5/metalwelcome.gif" border=0 alt="Myspace Graphics"></a><br><a href="https://www.pimp-my-profile.com/graphics/">Myspace Graphics</a> and <a href="https://www.pimp-my-profile.com/">Myspace Layouts</a><br>
+
+
 </body>
 </html>
 
@@ -55,7 +58,7 @@ body {
 </head>
 <body>
 
-<h1><a href="https://www.pimp-my-profile.com/graphics/view/r1"><img src="http://content.pimp-my-profile.com/graphics/wset5/metalwelcome.gif" border=0 alt="Myspace Graphics"></a><br><a href="https://www.pimp-my-profile.com/graphics/">Myspace Graphics</a> and <a href="https://www.pimp-my-profile.com/">Myspace Layouts</a><br> to SoundBTC!</h1> <html>
+<h1><a href="Welcome to SoundBTC!</h1> <html>
 <body>
 
 </body>
