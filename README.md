@@ -224,7 +224,7 @@ p {
           <p></p>
             <p></p>
 <h2>What is Blockchain?</h2>
-<p></p>
+<p><iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p></p>
   <p></p>
     <p></p>
       <p></p>
