@@ -64,6 +64,8 @@ body {
 </body>
 </html>
 
+<iframe src="https://coin360.com/coin-widget?coin=BTC" width="100%" height="247" frameborder="0"/>
+
 <html>
 <head>
 <style>
