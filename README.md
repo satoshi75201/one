@@ -79,7 +79,35 @@ h1 {
 </style>
 </head>
 <body>
+<p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
+<p>WE LOVE BITCOIN
+<p>LUCAS LOVES BITCOIN
+<p>DAISY LOVES BITCOIN...
+</p>
+
+<div style="width:75%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/Qsafh7MY500HoizIol" width="75%" height="75%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p>
+
+
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
 <p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
