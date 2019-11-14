@@ -70,11 +70,11 @@ body {
 <head>
 <style>
 body {
-  color: white;
+  color: #FFFF00 ;
 }
 
 h1 {
-  color: green;
+  color: #FFFF00 ;
 }
 </style>
 </head>
@@ -93,11 +93,11 @@ h1 {
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: #FFFF00 ;
 }
 
 h1 {
-  color: white;
+  color: #FFFF00 ;
   text-align: center;
 }
 
