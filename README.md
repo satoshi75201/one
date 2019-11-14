@@ -79,6 +79,11 @@ h1 {
 </style>
 </head>
 <body>
+  <style>
+body {
+  color: #FFFF00 ;
+}
+
 <p>Here you will find some general information on Bitcoin and Blockchain.</p>
 
 <p>WE LOVE BITCOIN
